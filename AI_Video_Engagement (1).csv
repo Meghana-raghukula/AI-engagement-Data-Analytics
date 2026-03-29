@@ -1,0 +1,11 @@
+Video_ID,Title,Category,Upload_Date,Views,Likes,Comments,Shares,Avg_Watch_Time (min),Completion_Rate (%),Platform
+V001,AI Generated Promo,Marketing,2025-07-01,12500,3200,580,410,2.8,72,YouTube
+V002,AI Explainer Video,Education,2025-07-05,9800,2100,450,360,3.5,81,LinkedIn
+V003,AI Short Ad,Advertisement,2025-07-08,15000,4500,720,500,1.2,65,Instagram
+V004,AI Tutorial,Education,2025-07-10,8700,1900,410,310,4.2,84,YouTube
+V005,AI Product Showcase,Marketing,2025-07-15,14200,3800,600,430,3.1,76,LinkedIn
+V006,AI Generated Short,Entertainment,2025-07-18,16200,5200,950,680,1.0,62,TikTok
+V007,AI Corporate Message,Corporate,2025-07-20,7200,1200,210,160,3.8,80,YouTube
+V008,AI Webinar Recording,Education,2025-07-25,6400,950,180,140,5.5,88,LinkedIn
+V009,AI Fun Clip,Entertainment,2025-07-28,19500,6300,1020,720,0.9,59,Instagram
+V010,AI Training Snippet,Corporate,2025-07-30,8100,1600,330,210,4.0,83,YouTube
